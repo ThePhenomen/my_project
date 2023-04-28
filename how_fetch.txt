@@ -1,1 +1,0 @@
-This was  made in order to determine differences between fetch and pull
